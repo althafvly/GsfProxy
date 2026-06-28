@@ -15,7 +15,7 @@ android {
 
     defaultConfig {
         applicationId = "com.google.android.gsf"
-        minSdk = 16
+        minSdk = 18
         targetSdk = 37
         versionCode = 8
         versionName = "v0.1.0"
