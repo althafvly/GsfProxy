@@ -17,8 +17,8 @@ android {
         applicationId = "com.google.android.gsf"
         minSdk = 18
         targetSdk = 37
-        versionCode = 8
-        versionName = "v0.1.0"
+        versionCode = 9
+        versionName = "v0.1.1"
     }
 
     buildTypes {
